@@ -16,6 +16,9 @@ public class Variable {
 		
 
 		char c1 = 'A';
+		
+//		이력 변경 추가(2022.07.01 12:55)
+		System.out.println("이력변경추가");
 
 	}
 
